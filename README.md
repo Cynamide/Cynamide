@@ -5,8 +5,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Cynamide/Cynamide/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<hr>
+<br>
 
 ### Hi there, I'm Arjit Agarwal 👋     &ensp;       ![](https://komarev.com/ghpvc/?username=Cynamide&color=blueviolet)
 
