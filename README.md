@@ -1,3 +1,13 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cynamide/Cynamide/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cynamide/Cynamide/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Cynamide/Cynamide/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 ### Hi there, I'm Arjit Agarwal 👋     &ensp;       ![](https://komarev.com/ghpvc/?username=Cynamide&color=blueviolet)
 
 I'm a **Full-Stack Engineer** specializing in **applied AI/ML**, building and scaling enterprise-grade applications where the front-end meets machine learning. I enjoy taking complex models and integrating them into robust, usable, real-world products.
