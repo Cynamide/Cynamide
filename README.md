@@ -23,8 +23,8 @@ I'm a **Full-Stack Engineer** specializing in **applied AI/ML**, building and sc
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,mongodb,postgres,anaconda,fastapi,django,docker,kubernetes" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,svelte,js,redux,git,postman,tensorflow,rabbitmq,grafana" />
+  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,mongodb,postgres,anaconda,fastapi,django,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,svelte,js,git,postman,tensorflow,rabbitmq,grafana" />
 </p>
 
 <hr>
